@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Wedit - Page Edit Toggle",
+  "version": "1.0",
+  "description": "Toggle page editability and format text with Markdown.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
